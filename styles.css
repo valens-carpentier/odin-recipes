@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-style: bold;
+    font-size: 32px;
+
+}
+
+ul {
+    font-style: bold;
+    font-size: 18px;
+}
+
+img {
+    width: auto;
+    height: auto;
+}
